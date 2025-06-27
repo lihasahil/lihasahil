@@ -6,14 +6,6 @@ I'm a **Software Engineer from Nepal** 🇳🇵 with a passion for building clea
 
 ## 💬 About Me
 
-const sameer = {
-  location: "Nepal",
-  education: "Computer Engineering",
-  fields: ["Web Development", "Frontend & Backend Development"],
-  currentFocus: "Creating robust & secure applications",
-  funFact: "I debug with a cup of coffee next to me - it's my rubber duck!"
-};
-
 - 🧑‍💻 I'm currently working on Web Development projects
 - 💡 Constantly learning and exploring new tools and frameworks
 - 🌱 Interested in Full-Stack Development, Open Source, and DevOps
