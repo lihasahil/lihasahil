@@ -1,6 +1,16 @@
 # 👋 Hi there, I'm [Sahil Shrestha]!
 
+<p align="center">
+  <strong><em>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;Passionate+About+Scalable+Apps;Loves+Clean+Code+%26+UI;Always+Learning+New+Tech" alt="Typing SVG" />
+  </em></strong>
+</p>
+
+
 I'm a **Software Engineer from Nepal** 🇳🇵 with a passion for building clean, scalable, and user-friendly applications. I love exploring new technologies and continuously improving my development skills.
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lihasahil&theme=radical" />
+</p>
 
 ---
 
