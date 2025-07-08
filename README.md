@@ -4,6 +4,21 @@ I'm a **Software Engineer from Nepal** 🇳🇵 with a passion for building clea
 
 ---
 
+📊 Stats
+<br />
+
+<div align="center">
+   <img width="auto" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lihasahil&hide_border=true&width=800&theme=radical&locale=en" alt="Sahil Shrestha" /> 
+   <br /><br />
+
+   <div alight="center">
+      <img width="auto" height="180em" src="https://github-readme-stats.vercel.app/api?username=lihasahil&show_icons=true&hide_border=true&width=600&theme=radical&locale=en" alt="Sahil Shrestha" /> 
+      <img width="auto" height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs?username=lihasahil&show_icons=true&hide_border=true&width=600&theme=radical&locale=en&layout=compact" alt="Sahil Shrestha" />
+   </div>
+
+</div>
+---
+
 ## 💬 About Me
 
 - 🧑‍💻 I'm currently working on Web Development projects
