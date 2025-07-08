@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm [Sahil Shrestha]!
 
-<img src="https://png.pngtree.com/png-clipart/20230913/original/pngtree-coder-clipart-boy-working-with-computer-game-on-the-desk-vector-png-image_11072679.png"/>
-
 I'm a **Software Engineer from Nepal** 🇳🇵 with a passion for building clean, scalable, and user-friendly applications. I love exploring new technologies and continuously improving my development skills.
 
 ---
