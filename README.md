@@ -31,6 +31,15 @@ I'm a **Software Engineer from Nepal** 🇳🇵 with a passion for building clea
 
 ## 💬 About Me
 
+```js
+const sahilShrestha = {
+  location: "Nepal",
+  education: "Computer Engineering",
+  fields: ["Software Development", "Full Stack"],
+  currentFocus: "Creating robust & secure applications",
+  funFact: "I debug with a cup of coffee next to me - it's my rubber duck!"
+};
+```
 - 🧑‍💻 I'm currently working on Web Development projects
 - 💡 Constantly learning and exploring new tools and frameworks
 - 🌱 Interested in Full-Stack Development, Open Source, and DevOps
