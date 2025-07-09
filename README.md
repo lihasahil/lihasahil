@@ -120,10 +120,6 @@ const sahilShrestha = {
 
 ---
 
-
-
----
-
 ## 🏷️ Pronouns
 
 He/Him
