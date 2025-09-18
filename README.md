@@ -27,9 +27,8 @@ I'm a **Software Engineer from Nepal** 🇳🇵 with a passion for building clea
   <br />
 
   <!-- GitHub Stats + Top Languages Side by Side -->
-  <img height="200em" width="45%" src="https://github-readme-stats.vercel.app/api?username=lihasahil&show_icons=true&hide_border=true&theme=radical&token=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" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="185em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=lihasahil&layout=compact&hide_border=true&theme=radical&token=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" alt="Top Languages"/>
+
+
 
 
 
